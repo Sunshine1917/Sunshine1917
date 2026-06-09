@@ -49,7 +49,8 @@ I am a Computer Engineering student at the Benemérita Universidad Autónoma de 
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
 
 
-<h3 align="center" > <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" style="margin-right: 10px;">Connect with me </h3>
+<h3 align="center" > Connect with me 
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" style="margin-right: 10px;"></h3>
 
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
