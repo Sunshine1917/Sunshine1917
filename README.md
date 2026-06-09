@@ -52,15 +52,12 @@ I am a Computer Engineering student at the Benemérita Universidad Autónoma de 
 <h3 align="center" > <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" style="margin-right: 10px;">Connect with me </h3>
 
 <p align="center">
-
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="www.linkedin.com/in/alejandro-juárez-rojas-1259b6360">
-			<img 
-                src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png"
-                alt="linkedin" height="36" width="36">
-        </a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/Sunshine1917">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-</div>
-
+	 <a href= "https://www.linkedin.com/in/alejandro-juárez-rojas-1259b6360/">
+	    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+	</a>
+	 <a href= "https://github.com/Sunshine1917">
+	    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+	</a>
+ </div>
 </p>
