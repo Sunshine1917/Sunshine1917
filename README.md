@@ -3,14 +3,14 @@
 </p>
 <h1 align="center"><b>Hi , I'm Sunshine1917 </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZWVjeGN4NmdvN2x3Nzd6M2NxcGIyb2Y1YmpmZXdubG55Y2N2dnRsaiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/PVaTEdjeQj6SFV6gds/giphy.gif" />
+<img align="right" width=300px alt="Unicorn" src="Penguin.gif" />
 
 <img src="About_Me.gif"
 width="40px">&nbsp;***About me***
 
 I am a Computer Engineering student at the Benemérita Universidad Autónoma de Puebla. I am proficient in the programming languages ​C,​ C++, Python and Shell are the programming languages I am good at. I am passionate about learning about new technologies and creating new, productive, innovative, and creative projects.
 * **I am interested in machine learning, embedded systems, web and mobile development.**
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently learning ...
   - JavaScript 
   - FastAPI
   - Docker
@@ -54,10 +54,10 @@ I am a Computer Engineering student at the Benemérita Universidad Autónoma de 
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
 	 <a href= "https://www.linkedin.com/in/alejandro-juárez-rojas-1259b6360/">
-	    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+	    <img src="linkedin.png" alt="linkedin" width="36" height="36">
 	</a>
 	 <a href= "https://github.com/Sunshine1917">
-	    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+	    <img src="github.png" alt="GitHub" width="36" height="36">
 	</a>
  </div>
 </p>
